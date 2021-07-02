@@ -1,8 +1,8 @@
-header {
+header, #footer {
     background-color: purple;
 }
 
-.header-text {
+.header-text, #footer {
     color: white;
     text-align: center;
 }
@@ -17,10 +17,4 @@ header {
 
 .article-author, .article-date {
     color: grey;
-}
-
-#footer {
-    color: white;
-    background-color: purple;
-    text-align: center;
 }
